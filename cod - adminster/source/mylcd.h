@@ -17,8 +17,7 @@ uint32_t DEC_BCD(uint32_t value);
 void disPlay_Clear(uint8_t c_start,uint8_t len);//显示数组清零
 
 
-
-
+// change1  222
 
 
 
